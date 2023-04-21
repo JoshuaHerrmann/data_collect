@@ -1,0 +1,3 @@
+input validation
+    email: adress@provider.toplvldomain
+    postcode: mind 5 zeichen in DE
