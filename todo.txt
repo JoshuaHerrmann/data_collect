@@ -1,3 +1,8 @@
 input validation
     email: adress@provider.toplvldomain
     postcode: mind 5 zeichen in DE
+
+    docker container
+
+    pfad optional angeben, wenn ja = dort json erstellen, wenn kein default false, 
+    nur return json console
