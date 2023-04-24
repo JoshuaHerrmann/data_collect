@@ -20,9 +20,8 @@ var path string
 
 func main() {
 	getArgData()
-	debug := create_json()
-	//debug
-	fmt.Printf("%s", debug)
+	JsonData := create_json()
+	fmt.Printf("%s", JsonData)
 
 }
 
